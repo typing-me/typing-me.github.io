@@ -30,7 +30,7 @@ sidebar:
   icons:
     enable: true
   socials:
-    enable: true
+    enable: false
 content:
   icons:
     enable: true
@@ -54,11 +54,11 @@ content:
       enable: true
   post:
     author:
-      enable: true
+      enable: false
       avatar:
-        enable: true
+        enable: false
     share:
-      enable: true
+      enable: false
       facebook:
         enable: true
       linkedin:

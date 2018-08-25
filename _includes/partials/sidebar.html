@@ -53,19 +53,19 @@
 
 
 
-        {% for page in site.pages %}
+        {% comment %} {% for page in site.pages %}
           {% if page.title and page.in_menu == true %}
             <li class="mr-3 mr-lg-0 float-left float-lg-none sidebar__menu-item">
               {% if site.sidebar.icons.enable == true %}<i class="mr-1 fas {{ page.icon }}"></i>{% endif %}
               <a class="sidebar__menu-item__link" href="{{ page.url | prepend: site.baseurl | prepend: site.url }}">{{ page.title }}</a>
             </li>
           {% endif %}
-        {% endfor %}
+        {% endfor %} {% endcomment %}
 
-        <li class="mr-3 mr-lg-0 float-left float-lg-none sidebar__menu-item">
+        {% comment %} <li class="mr-3 mr-lg-0 float-left float-lg-none sidebar__menu-item">
           {% if site.sidebar.icons.enable == true %}<i class="mr-1 fas fa-rss"></i>{% endif %}
           <a class="sidebar__menu-item__link" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" target="_blank">{{ loadData.website.sidebar.menu.blog.feed.text }}</a>
-        </li>
+        </li> {% endcomment %}
 
       </ul>
 
