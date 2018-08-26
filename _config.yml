@@ -68,7 +68,7 @@ content:
       googleplus:
         enable: true
     day_quote:
-      enable: true
+      enable: false
     comments:
       enable: true
 ### END - This property enables and disables template features. Use to taste.
@@ -87,17 +87,17 @@ jektify:
   toggle:
     enable: true
   spotify:
-    user: williamcanin
+    user: lucas_souto123
     text: See me no Spotify
   sass:
     jekyll: true
     other:
       dir: "way/to/your/SASS"
   title:
-    enable: true
+    enable: false
     text: "Jektify"
   description:
-    enable: true
+    enable: false
     text: |
       Jekyll plugin to generate html snippets for embedding Spotify Musics.
       To listen to the full song, open your Spotify and start these musics.
@@ -108,10 +108,10 @@ _plugins:
     dir_posts: "assets/images/posts"
   # To see language support, go to the plugin "_plugins/reading_time.rb"
   reading_time:
-    locale: en_US
+    locale: pt_PT
   # To see language support, go to the plugin "_plugins/datelang.rb"
   datelang:
-    locale: en_US
+    locale: pt_PT
     reload: false
 ### EXTRA END - These properties are extra features, such as built-in third-party plugins.
 

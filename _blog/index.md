@@ -1,9 +1,9 @@
 ---
 layout: postlist
 title: Blog
-msg_qtd: ['There are','posts in total.']
+msg_qtd: ['Existe um total de ','posts.']
 script: [postlist.js]
 permalink: /blog/
 ---
 
-What follows is a list of weblog posts from as early as {{ site.debutyear }}. I hope you enjoy
+Espero que goste do que lerá aqui, se não gostar eu compreendo, eu também não gosto.

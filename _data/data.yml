@@ -67,7 +67,7 @@ website:
         title: "Leave a comment on this post"
 # Contact
     contact:
-      language: "pt-BR"
+      language: "pt_PT"
       placeholder:
         name: "Your full name"
         subject: "Subject matter"
