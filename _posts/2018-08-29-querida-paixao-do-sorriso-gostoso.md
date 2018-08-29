@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Querida paixão do sorriso gostoso"
+date:   2018-08-29 02:10:00 -0300
 tags: ["sorriso", "apaixonado", "afogando"]
 published: true
 comments: true
