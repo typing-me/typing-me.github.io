@@ -12,20 +12,20 @@ website:
 # Theme - Values [ typing | whiteglass | hacking | littlegirl | custom ]
   theme: "typing"
 # Configuration default
-  title: Typing
-  description: Typing - A Theme for Jekyll
-  launch: 2016
+  title: Typing Me
+  description: Um lugar para escrever e viver
+  launch: 2018
   metatag:
     google-site-verification:
     type: "WebSite"
     locale: "pt-br"
     expires:  # E.g: "Sat, 24 Dec 2017 00:10:00 GMT"
     cache-control:  # E.g: "max-age=29030400, public" # Default: public / max-age=29030400
-    tags: "Typing, Theme, Jekyll"
+    tags: "poesias, tristezas, mais poesias"
   # Config for Google Analytics.  Note: Must have Google Analytics Tracking ID.
   google:
     analytics:
-      id: # tracking id, e.g. "UA-000000-01"
+      id: "UA-124797877-1"
 # Sidebar
   sidebar:
     avatar: typing.svg
