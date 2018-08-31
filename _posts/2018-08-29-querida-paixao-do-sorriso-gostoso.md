@@ -7,7 +7,7 @@ published: true
 comments: true
 script: [post.js]
 excerpted: |
-    Querida, te escrevo nesse momento tão artificial    
+    Querida, te escrevo nesse momento tão artificial ...   
 ---
 
 Querida, te escrevo nesse momento tão artificial, é estranho pois me assustei com você - e como você me assusta - em um dia que não estou mal, mas muito menos bem. Já te expliquei que não é por você, mas pelo que sinto por você, algo que gosto muito. Ultimamente tenho olhado para mim mesmo e me acho tão forasteiro de mim, parece que me mudei para dentro de você e fecharam qualquer saída que me pudesse deixar ir embora, não que eu queira ir embora é só que no seu país eu não sou aceito como realmente sou, um rapaz apaixonado pelo teu sorriso gostoso.
