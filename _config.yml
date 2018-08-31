@@ -68,7 +68,7 @@ content:
       googleplus:
         enable: true
     day_quote:
-      enable: false
+      enable: true
     comments:
       enable: true
 ### END - This property enables and disables template features. Use to taste.
