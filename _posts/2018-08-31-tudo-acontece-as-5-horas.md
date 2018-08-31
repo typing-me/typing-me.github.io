@@ -21,6 +21,6 @@ Amar o perdido deixa confundido este coração, já dizia Carlos Drummond de And
 
 Não é fácil mais encarar o sol, me sinto deslocado e aflito em viver e enfrentar a vida. Quem sabe eu não possa finalmente um dia estar debaixo daquele mesmo sol, mas agora não mais angustiado como ele, estarei finalmente livre de mim, em paz comigo mesmo e se o tal Deus for tão misericordioso assim, por fim em um lugar calmo, somente eu, sem a eterna sensação de solidão.
 
-{% jektify spotify/track/4Qq8rERaPWkDuZsvSWR9LL/dark %}
+{% jektify spotify/track/08ixnzDjySbvWIrYLlwVEg/dark %}
 
 {% endpost #9D9D9D %}
