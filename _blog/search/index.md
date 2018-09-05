@@ -5,4 +5,4 @@ permalink: /blog/search/
 script: [search.js]
 ---
 
-Type something in the field to perform a search for an article in the Blog. Good hunting!
+Digite alguma coisa no campo para realizar uma pesquisa por um post no Blog.

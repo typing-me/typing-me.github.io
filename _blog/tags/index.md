@@ -4,4 +4,4 @@ title: Tags
 permalink: /blog/tags/
 ---
 
-Here you find the option to find content through Tags. An easy way to know what kind of content there is on the Blog. Good hunting!
+Aqui você tem a opção de encontrar conteúdo através de Tags. Uma maneira fácil de saber que tipo de conteúdo existe no Blog.
