@@ -25,7 +25,7 @@ Aquele sorriso vai conquistar o mundo ainda e aquele coração há de propagar m
 Ah dindi, se tu soubesse como machuca, não amaria mais ninguém.
 
 <p align="center">
-  <img src="../../assets/images/posts/ela.jpg">
+  <img src="../../assets/images/posts/ela.jpg" style="width:100%">
 </p>
 {% jektify spotify/track/5fRUC8B4mVENgnWd3WImdw/dark %}
 
