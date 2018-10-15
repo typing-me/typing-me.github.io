@@ -1,6 +1,13 @@
 [
   
     {
+      "title"    : "Como machuca",
+      "tags"     : "",
+      "url"     : "/blog/como-machuca/",
+      "date"     : "15/10/2018"
+    } ,
+  
+    {
       "title"    : "Melancolia",
       "tags"     : "",
       "url"     : "/blog/melancolia/",
@@ -10,7 +17,7 @@
     {
       "title"    : "Fica?",
       "tags"     : "",
-      "url"     : "/blog/xxx/",
+      "url"     : "/blog/fica/",
       "date"     : "4/10/2018"
     } ,
   
